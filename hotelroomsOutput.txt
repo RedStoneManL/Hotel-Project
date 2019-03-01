@@ -1,0 +1,133 @@
+Hotel Burger
+2 Pattys Drive, Lettuceville WA
+206-987-6543
+201 2 4 DOUBLEx2 Regular{02/21/2019-02/21/2019}
+
+202 2 4 DOUBLEx2 Regular{}
+
+203 2 4 DOUBLEx2 Regular{}
+
+204 2 4 DOUBLEx2 Regular{}
+
+205 2 4 DOUBLEx2 Regular{}
+
+206 2 4 DOUBLEx2 Regular{}
+
+207 2 4 DOUBLEx2 Regular{}
+
+208 2 4 DOUBLEx2 Regular{}
+
+301 3 4 QUEEN Regular{}
+
+302 3 4 QUEEN Regular{}
+
+303 3 4 QUEEN Regular{}
+
+304 3 4 QUEEN Regular{}
+
+305 3 4 QUEEN Regular{}
+
+306 3 4 QUEEN Regular{}
+
+307 3 4 QUEEN Regular{}
+
+308 3 4 QUEEN Regular{}
+
+401 4 4 DOUBLEx2 Regular{}
+
+402 4 4 DOUBLEx2 Regular{}
+
+403 4 4 DOUBLEx2 Regular{}
+
+404 4 4 DOUBLEx2 Regular{}
+
+405 4 4 DOUBLEx2 Regular{}
+
+406 4 4 DOUBLEx2 Regular{}
+
+407 4 4 DOUBLEx2 Regular{}
+
+408 4 4 DOUBLEx2 Regular{}
+
+501 5 4 QUEEN Regular{}
+
+502 5 4 QUEEN Regular{}
+
+503 5 4 QUEEN Regular{}
+
+504 5 4 QUEEN Regular{}
+
+505 5 4 QUEEN Regular{}
+
+506 5 4 QUEEN Regular{}
+
+507 5 4 QUEEN Regular{}
+
+508 5 4 QUEEN Regular{}
+
+601 6 4 DOUBLEx2 Regular{}
+
+602 6 4 DOUBLEx2 Regular{}
+
+603 6 4 DOUBLEx2 Regular{}
+
+604 6 4 DOUBLEx2 Regular{}
+
+605 6 4 DOUBLEx2 Regular{}
+
+606 6 4 DOUBLEx2 Regular{}
+
+607 6 4 DOUBLEx2 Regular{}
+
+608 6 4 DOUBLEx2 Regular{}
+
+701 7 4 QUEEN Regular{}
+
+702 7 4 QUEEN Regular{}
+
+703 7 4 QUEEN Regular{}
+
+704 7 4 QUEEN Regular{}
+
+705 7 4 QUEEN Regular{}
+
+706 7 4 QUEEN Regular{}
+
+707 7 4 QUEEN Regular{}
+
+708 7 4 QUEEN Regular{}
+
+801 8 4 KING Large{}
+
+802 8 4 KING Large{}
+
+803 8 4 KING Large{}
+
+804 8 6 QUEENx2 Large{}
+
+805 8 6 QUEENx2 Large{}
+
+806 8 6 QUEENx2 Large{}
+
+901 9 4 KING Large{}
+
+902 9 4 KING Large{}
+
+903 9 4 KING Large{}
+
+904 9 6 QUEENx2 Large{}
+
+905 9 6 QUEENx2 Large{}
+
+906 9 6 QUEENx2 Large{}
+
+10SA 10 6 KING-DOUB Suite{02/21/2019-02/25/2019}
+
+10SB 10 6 KING-DOUB Suite{}
+
+10SC 10 6 KING-DOUB Suite{}
+
+10SD 10 6 KING-DOUB Suite{01/21/2019-01/24/2019}
+
+10SE 10 6 KING-DOUB Suite{}
+
